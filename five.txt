@@ -2077,6 +2077,7 @@ gimpy
 gipsy
 girds
 girls
+girly
 giros
 girth
 gismo
